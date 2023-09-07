@@ -1,0 +1,59 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Sep 2023 11:15:57 at https://sayha.org.sa/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sayha.org.sa/ -O1 "C:\My Web Sites\Hostel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:19:23	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/services/topic/topic/about (from https://sayha.org.sa/en/services/topic/6)
+11:19:23	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/services/topic/topic/privacy (from https://sayha.org.sa/en/services/topic/6)
+11:19:23	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/services/topic/topic/terms (from https://sayha.org.sa/en/services/topic/6)
+11:19:40	Warning: 	Found for https://sayha.org.sa/backEnd/assets/images/
+11:19:40	Warning: 	File has moved from https://sayha.org.sa/backEnd/assets/images/ to https://sayha.org.sa/home
+11:19:40	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/blog/topic/topic/about (from https://sayha.org.sa/en/blog/topic/57)
+11:19:42	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/blog/topic/topic/privacy (from https://sayha.org.sa/en/blog/topic/57)
+11:19:42	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/blog/topic/topic/terms (from https://sayha.org.sa/en/blog/topic/57)
+11:20:58	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/photos/topic/topic/about (from https://sayha.org.sa/en/photos/topic/23)
+11:20:58	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/photos/topic/topic/privacy (from https://sayha.org.sa/en/photos/topic/23)
+11:20:58	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/photos/topic/topic/terms (from https://sayha.org.sa/en/photos/topic/23)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sitePages/topic/topic/about (from https://sayha.org.sa/en/sitePages/topic/1)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sitePages/topic/topic/privacy (from https://sayha.org.sa/en/sitePages/topic/1)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sitePages/topic/topic/terms (from https://sayha.org.sa/en/sitePages/topic/1)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sounds/topic/topic/about (from https://sayha.org.sa/en/sounds/topic/36)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sounds/topic/topic/privacy (from https://sayha.org.sa/en/sounds/topic/36)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/sounds/topic/topic/terms (from https://sayha.org.sa/en/sounds/topic/36)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/products/topic/topic/about (from https://sayha.org.sa/en/products/topic/50)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/products/topic/topic/privacy (from https://sayha.org.sa/en/products/topic/50)
+11:21:00	Error: 	"Not Found" (404) at link https://sayha.org.sa/en/products/topic/topic/terms (from https://sayha.org.sa/en/products/topic/50)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/images/logo.png (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/animate.css/animate.min.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/glyphicons/glyphicons.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/font-awesome/css/font-awesome.min.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/material-design-icons/material-design-icons.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/bootstrap/dist/css/bootstrap.min.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/styles/app.min.css (from https://sayha.org.sa/index.php/login)
+11:24:04	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/backEnd/assets/styles/font.css (from https://sayha.org.sa/index.php/login)
+11:24:11	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/services/topic/topic/about (from https://sayha.org.sa/index.php/en/services/topic/6)
+11:24:49	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/services/topic/topic/privacy (from https://sayha.org.sa/index.php/en/services/topic/6)
+11:24:49	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/services/topic/topic/terms (from https://sayha.org.sa/index.php/en/services/topic/6)
+11:25:31	Warning: 	Moved Permanently for https://sayha.org.sa/index.php/backEnd/assets/images/
+11:25:31	Warning: 	File has moved from https://sayha.org.sa/index.php/backEnd/assets/images/ to https://sayha.org.sa/index.php/backEnd/assets/images
+11:25:32	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/blog/topic/topic/about (from https://sayha.org.sa/index.php/en/blog/topic/57)
+11:25:35	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/blog/topic/topic/privacy (from https://sayha.org.sa/index.php/en/blog/topic/57)
+11:25:35	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/blog/topic/topic/terms (from https://sayha.org.sa/index.php/en/blog/topic/57)
+11:27:44	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/photos/topic/topic/about (from https://sayha.org.sa/index.php/en/photos/topic/23)
+11:27:44	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/photos/topic/topic/privacy (from https://sayha.org.sa/index.php/en/photos/topic/23)
+11:27:44	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/photos/topic/topic/terms (from https://sayha.org.sa/index.php/en/photos/topic/23)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sitePages/topic/topic/about (from https://sayha.org.sa/index.php/en/sitePages/topic/1)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sitePages/topic/topic/privacy (from https://sayha.org.sa/index.php/en/sitePages/topic/1)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sitePages/topic/topic/terms (from https://sayha.org.sa/index.php/en/sitePages/topic/1)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sounds/topic/topic/about (from https://sayha.org.sa/index.php/en/sounds/topic/36)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sounds/topic/topic/privacy (from https://sayha.org.sa/index.php/en/sounds/topic/36)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/sounds/topic/topic/terms (from https://sayha.org.sa/index.php/en/sounds/topic/36)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/products/topic/topic/about (from https://sayha.org.sa/index.php/en/products/topic/50)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/products/topic/topic/privacy (from https://sayha.org.sa/index.php/en/products/topic/50)
+11:27:48	Error: 	"Not Found" (404) at link https://sayha.org.sa/index.php/en/products/topic/topic/terms (from https://sayha.org.sa/index.php/en/products/topic/50)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 43 seconds : 446 links scanned, 399 files written (28322032 bytes overall) [30392335 bytes received at 39832 bytes/sec], 29063 bytes transferred using HTTP compression in 1 files, ratio 25%, 45.1 requests per connection
+(44 errors, 4 warnings, 0 messages)
